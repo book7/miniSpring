@@ -3,7 +3,7 @@ package com.minis.aop;
 import java.lang.reflect.Method;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/05/05
  **/
 public interface MethodInvocation {

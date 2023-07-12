@@ -1,7 +1,7 @@
 package com.minis.core.env;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/22
  * @Deprecated 用于获取属性
  **/

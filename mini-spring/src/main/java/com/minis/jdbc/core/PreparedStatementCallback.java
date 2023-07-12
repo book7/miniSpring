@@ -4,7 +4,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/25
  **/
 public interface PreparedStatementCallback {

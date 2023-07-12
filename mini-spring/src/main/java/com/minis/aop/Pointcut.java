@@ -1,7 +1,7 @@
 package com.minis.aop;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/05/10
  * @Deprecated 定义切点
  **/

@@ -4,7 +4,7 @@ import com.minis.web.servlet.View;
 import com.minis.web.servlet.ViewResolver;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/06
  **/
 public class InternalResourceViewResolver implements ViewResolver {

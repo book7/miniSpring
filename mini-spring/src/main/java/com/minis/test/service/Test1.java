@@ -4,7 +4,7 @@ import com.minis.beans.BeansException;
 import com.minis.context.ClassPathXmlApplicationContext;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/14
  **/
 public class Test1 {

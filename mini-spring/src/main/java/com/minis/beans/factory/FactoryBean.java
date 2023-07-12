@@ -1,7 +1,7 @@
 package com.minis.beans.factory;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/28
  **/
 public interface FactoryBean<T> {

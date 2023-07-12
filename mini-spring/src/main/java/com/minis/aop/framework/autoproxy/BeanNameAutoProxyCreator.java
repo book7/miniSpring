@@ -9,7 +9,7 @@ import com.minis.beans.factory.config.BeanPostProcessor;
 import com.minis.util.PatternMatchUtils;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/05/11
  **/
 public class BeanNameAutoProxyCreator implements BeanPostProcessor {

@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.EventObject;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/15
  **/
 public class ApplicationEvent extends EventObject implements Serializable {

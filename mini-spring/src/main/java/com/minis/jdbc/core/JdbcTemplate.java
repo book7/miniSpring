@@ -11,7 +11,7 @@ import java.sql.Statement;
 import java.util.List;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/25
  * @Deprecated 实现基本的 JDBC 访问框架
  **/

@@ -1,7 +1,7 @@
 package com.minis.web;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/06
  **/
 public interface ObjectMapper {

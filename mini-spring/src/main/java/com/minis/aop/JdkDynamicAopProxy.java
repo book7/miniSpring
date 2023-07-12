@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/05/05
  **/
 public class JdkDynamicAopProxy implements AopProxy, InvocationHandler {

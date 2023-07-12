@@ -4,7 +4,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/26
  * @Deprecated JDBC 里传参数的代码进行包装的组件
  **/

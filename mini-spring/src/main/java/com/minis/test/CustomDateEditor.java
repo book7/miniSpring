@@ -9,7 +9,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Date;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/04
  **/
 public class CustomDateEditor implements PropertyEditor {

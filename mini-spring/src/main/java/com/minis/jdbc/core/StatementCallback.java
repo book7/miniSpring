@@ -4,7 +4,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/25
  **/
 public interface StatementCallback {

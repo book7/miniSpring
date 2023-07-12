@@ -3,7 +3,7 @@ package com.minis.beans.factory.support;
 import com.minis.beans.factory.config.BeanDefinition;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/15
  * @Deprecated 存放 BeanDefinition 的仓库
  **/

@@ -6,7 +6,7 @@ import com.minis.web.bind.support.WebBindingInitializer;
 import java.util.Date;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/04
  **/
 public class DateInitializer implements WebBindingInitializer {

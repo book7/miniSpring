@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/04
  * @Deprecated 用于将 Request 请求内的字符串参数转换成不同类型的参数，来进行适配
  **/

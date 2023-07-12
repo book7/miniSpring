@@ -1,7 +1,7 @@
 package com.minis.beans;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/15
  **/
 public class PropertyValue {

@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Method;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/03
  * @Deprecated 遍历 WAC 中已经注册的所有的 Bean，并处理带有 @RequestMapping 注解的类，
  * 使用 mappingRegistry 存储 URL 地址与方法和实例的映射关系

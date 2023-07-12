@@ -6,7 +6,7 @@ import com.minis.web.context.WebApplicationContext;
 import javax.servlet.ServletContext;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/03
  **/
 public class XmlWebApplicationContext extends ClassPathXmlApplicationContext implements WebApplicationContext {

@@ -1,7 +1,7 @@
 package com.minis.beans;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/04
  **/
 public interface PropertyEditor {

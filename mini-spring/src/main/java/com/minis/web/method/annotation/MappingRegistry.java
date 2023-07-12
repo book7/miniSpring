@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/03
  **/
 public class MappingRegistry {

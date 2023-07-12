@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/26
  * @Deprecated 处理JDBC返回结果的组件
  **/

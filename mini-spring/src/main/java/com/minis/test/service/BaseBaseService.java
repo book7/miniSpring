@@ -1,7 +1,7 @@
 package com.minis.test.service;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/17
  **/
 public class BaseBaseService {

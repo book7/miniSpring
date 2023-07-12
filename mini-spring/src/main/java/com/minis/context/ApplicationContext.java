@@ -9,7 +9,7 @@ import com.minis.core.env.Environment;
 import com.minis.core.env.EnvironmentCapable;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/23
  * @Deprecated 作为公共接口，所有的上下文都实现自ApplicationContext，支持上下文环境和事件发布
  **/

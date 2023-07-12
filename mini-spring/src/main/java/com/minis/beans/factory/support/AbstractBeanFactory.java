@@ -19,7 +19,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/21
  * @Deprecated 抽象出来的公共方法的工厂对象
  **/

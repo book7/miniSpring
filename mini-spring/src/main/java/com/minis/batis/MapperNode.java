@@ -1,7 +1,7 @@
 package com.minis.batis;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/26
  * @Deprecated 解析Mybatis的xml的实体
  **/

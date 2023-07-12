@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/26
  **/
 public class RowMapperResultSetExtractor<T> implements ResultSetExtractor<List<T>> {

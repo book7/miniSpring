@@ -3,7 +3,7 @@ package com.minis.test.service;
 import com.minis.beans.factory.annotation.Autowired;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/17
  **/
 public class BaseService {

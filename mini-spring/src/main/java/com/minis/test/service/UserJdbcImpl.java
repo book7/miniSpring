@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/25
  * @Deprecated 对User表做数据访问
  **/

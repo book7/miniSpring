@@ -12,7 +12,7 @@ import java.util.Map;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/23
  **/
 public abstract class AbstractApplicationContext implements ApplicationContext {

@@ -4,7 +4,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/03
  **/
 public interface HandlerAdapter {

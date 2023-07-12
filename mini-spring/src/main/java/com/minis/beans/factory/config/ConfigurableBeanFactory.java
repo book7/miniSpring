@@ -3,7 +3,7 @@ package com.minis.beans.factory.config;
 import com.minis.beans.factory.BeanFactory;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/22
  **/
 public interface ConfigurableBeanFactory extends BeanFactory, SingletonBeanRegistry {

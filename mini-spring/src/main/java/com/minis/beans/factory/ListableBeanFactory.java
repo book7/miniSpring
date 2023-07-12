@@ -5,7 +5,7 @@ import com.minis.beans.BeansException;
 import java.util.Map;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/22
  **/
 public interface ListableBeanFactory extends BeanFactory {

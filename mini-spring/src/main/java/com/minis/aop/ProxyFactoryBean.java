@@ -7,7 +7,7 @@ import com.minis.beans.factory.FactoryBean;
 import com.minis.util.ClassUtils;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/05/05
  **/
 public class ProxyFactoryBean implements FactoryBean<Object>, BeanFactoryAware {

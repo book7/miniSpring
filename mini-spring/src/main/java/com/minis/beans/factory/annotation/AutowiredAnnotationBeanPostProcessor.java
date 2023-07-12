@@ -7,7 +7,7 @@ import com.minis.beans.factory.config.BeanPostProcessor;
 import java.lang.reflect.Field;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/21
  * @Deprecated 处理@Autowired的注解的后置处理器
  **/

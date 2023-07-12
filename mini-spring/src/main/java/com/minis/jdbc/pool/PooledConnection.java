@@ -6,7 +6,7 @@ import java.util.Properties;
 import java.util.concurrent.Executor;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/26
  **/
 public class PooledConnection implements Connection {

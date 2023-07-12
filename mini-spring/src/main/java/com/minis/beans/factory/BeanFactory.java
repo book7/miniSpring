@@ -3,7 +3,7 @@ package com.minis.beans.factory;
 import com.minis.beans.BeansException;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/14
  **/
 public interface BeanFactory {

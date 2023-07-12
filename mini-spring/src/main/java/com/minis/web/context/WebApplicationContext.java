@@ -5,7 +5,7 @@ import com.minis.context.ApplicationContext;
 import javax.servlet.ServletContext;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/03/31
  **/
 public interface WebApplicationContext extends ApplicationContext {

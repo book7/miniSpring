@@ -4,7 +4,7 @@ import com.minis.beans.PropertyValues;
 import com.minis.beans.factory.config.ConstructorArgumentValues;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/14
  * @Deprecated Bean 的定义
  **/

@@ -9,7 +9,7 @@ import java.net.URL;
 import java.util.Iterator;
 
 /**
- * @author 曹振远
+ * @author tjy
  * @date 2023/03/14
  **/
 public class ClassPathXmlResource implements Resource {

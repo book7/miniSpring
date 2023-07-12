@@ -1,7 +1,7 @@
 package com.minis.jdbc.pool;
 
 /**
- * @author czy
+ * @author tjy
  * @date 2023/04/27
  **/
 public class PoolExhaustedException extends Exception {
